@@ -35,6 +35,8 @@
 
 ## Python
 
+*   [dockpeek/dockpeek](https://github.com/dockpeek/dockpeek) - Simple dashboard showing Docker ports with clickable links for multiple hosts
+
 *   [hanxi/xiaomusic](https://github.com/hanxi/xiaomusic) - 使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。
 
 *   [Red5d/docker-autocompose](https://github.com/Red5d/docker-autocompose) - Generate a docker-compose yaml definition from a running container
@@ -198,8 +200,6 @@
 *   [Waikkii/JD\_Get\_Cookie](https://github.com/Waikkii/JD_Get_Cookie) - PC获取ck工具
 
 *   [rsalmei/alive-progress](https://github.com/rsalmei/alive-progress) - A new kind of Progress Bar, with real-time throughput, ETA, and very cool animations!
-
-*   [aaPanel/BaoTa](https://github.com/aaPanel/BaoTa) - 宝塔Linux面板 - 简单好用的服务器运维面板
 
 ## HTML
 
