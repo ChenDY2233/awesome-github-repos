@@ -14,6 +14,7 @@
 *   [Less](#less)
 *   [Java](#java)
 *   [Rust](#rust)
+*   [CoffeeScript](#coffeescript)
 *   [C](#c-1)
 *   [Swift](#swift)
 *   [Shell](#shell)
@@ -332,7 +333,7 @@
 
 *   [apades/dmMiniPlayer](https://github.com/apades/dmMiniPlayer) - Enhanced picture in picture video player, support subtitle, danmaku etc web extension. 增强版画中画播放器，可以播放、发送弹幕，支持字幕，键盘控制进度等功能的浏览器插件
 
-*   [hanydd/BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) - 一款跳过B站视频中恰饭片段的浏览器插件，移植自 SponsorBlock。A browser extension to skip sponsored segments in videos on Bilibili.com, ported from the SponsorBlock
+*   [hanydd/BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) - 一款跳过小电视视频中恰饭片段的浏览器插件，移植自 SponsorBlock。A browser extension to skip sponsored segments in videos, ported from the SponsorBlock
 
 *   [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 
@@ -415,8 +416,6 @@
 *   [liuyubing233/zhihu-custom-mobile](https://github.com/liuyubing233/zhihu-custom-mobile) - 知乎修改器的移动版：列表标题类别显示功能设置，收起按钮悬浮设置，列表、问题详情、回答、文章内容置顶创建和修改时间设置，一键获取内容链接设置，问题详情添加查看问题日志按钮，自定义样式，隐藏模块，缓存列表和浏览历史记录等功能。
 
 *   [Izumiko/jellyfin-danmaku](https://github.com/Izumiko/jellyfin-danmaku) - Jellyfin danmaku extension
-
-*   [zero-peak/ZeroOmega](https://github.com/zero-peak/ZeroOmega) - Manage and switch between multiple proxies quickly & easily.
 
 *   [ShareDropio/sharedrop](https://github.com/ShareDropio/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
 
@@ -655,6 +654,10 @@
 *   [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 
 *   [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
+
+## CoffeeScript
+
+*   [zero-peak/ZeroOmega](https://github.com/zero-peak/ZeroOmega) - Manage and switch between multiple proxies quickly & easily.
 
 ## C
 
