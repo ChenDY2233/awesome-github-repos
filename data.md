@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [Visual Basic .NET](#visual-basic-net)
 *   [C#](#c)
 *   [Go](#go)
 *   [Python](#python)
@@ -34,6 +35,10 @@
 *   [Pascal](#pascal)
 *   [Haskell](#haskell)
 *   [Markdown](#markdown)
+
+## Visual Basic .NET
+
+*   [Lake1059/FFmpegFreeUI](https://github.com/Lake1059/FFmpegFreeUI) - 3FUI 是 ffmpeg 在 Windows 上的轻度专业交互外壳，收录大量参数，界面美观，交互友好。此项目面向国内使用环境，让普通人也能够轻松压制视频和转换格式。
 
 ## C\#
 
@@ -197,7 +202,7 @@
 
 *   [jd/tenacity](https://github.com/jd/tenacity) - Retrying library for Python
 
-*   [icepage/AutoUpdateJdCookie](https://github.com/icepage/AutoUpdateJdCookie) - 自用青龙面板辅助工具，用于自动登录JD获取许可更新青龙面板
+*   [icepage/AutoUpdateJdCookie](https://github.com/icepage/AutoUpdateJdCookie) - 自用青龙面板辅助工具，用于自动登录JD获取京东COOKIE更新青龙面板
 
 *   [HisAtri/LrcApi](https://github.com/HisAtri/LrcApi) - A Flask API For StreamMusic.
 
@@ -860,8 +865,6 @@
 *   [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
 
 *   [xiaorouji/openwrt-passwall](https://github.com/xiaorouji/openwrt-passwall) -
-
-*   [jerrykuku/luci-app-go-aliyundrive-webdav](https://github.com/jerrykuku/luci-app-go-aliyundrive-webdav) - 本项目是go-aliyun-webdav 的Luci 控制面板。
 
 ## Batchfile
 
