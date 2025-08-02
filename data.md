@@ -7,9 +7,9 @@
 *   [Go](#go)
 *   [Python](#python)
 *   [GLSL](#glsl)
-*   [HTML](#html)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
+*   [HTML](#html)
 *   [miscellaneous](#miscellaneous)
 *   [C++](#c-1)
 *   [Vue](#vue)
@@ -97,6 +97,8 @@
 ## Go
 
 *   [marcopiovanello/yt-dlp-web-ui](https://github.com/marcopiovanello/yt-dlp-web-ui) - A terrible web ui and RPC server for yt-dlp. Designed to be self-hosted.
+
+*   [sky22333/hubproxy](https://github.com/sky22333/hubproxy) - 基于Go的自托管轻量级、高性能的多功能代理加速服务，提供 Docker 镜像加速、GitHub 加速、下载离线镜像等功能。单域名实现所有功能，支持仓库审计。流式转发，无缓存。
 
 *   [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 
@@ -360,28 +362,6 @@
 
 *   [hooke007/MPV\_lazy](https://github.com/hooke007/MPV_lazy) - 🔄 mpv player 播放器折腾记录 windows conf ； 中文注释配置 汉化文档 快速帮助入门 ； mpv-lazy 懒人包 win10 x64 config ； 着色器 shader 滤镜 filter 整合方案
 
-## HTML
-
-*   [sky22333/hubproxy](https://github.com/sky22333/hubproxy) - 基于Go的自托管轻量级、高性能的多功能代理加速服务，提供 Docker 镜像加速、GitHub 加速、下载离线镜像等功能。单域名实现所有功能，支持仓库审计。流式转发，无缓存。
-
-*   [Suxiaoqinx/Netease\_url](https://github.com/Suxiaoqinx/Netease_url) - 网易云无损解析
-
-*   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-
-*   [homeisfar/LinuxDir2HTML](https://github.com/homeisfar/LinuxDir2HTML) -
-
-*   [Aemulo/Release](https://github.com/Aemulo/Release) -
-
-*   [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
-
-*   [tgnav/tgnav.github.io](https://github.com/tgnav/tgnav.github.io) - TGNAV - Telegram频道群组导航。收录Telegram上的优质频道、群组、机器人，打造一个高质量Telegram导航。
-
-*   [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
-
-*   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
-
-*   [kenzok8/openwrt-packages](https://github.com/kenzok8/openwrt-packages) - openwrt常用软件包
-
 ## TypeScript
 
 *   [pt-plugins/PT-depiler](https://github.com/pt-plugins/PT-depiler) - PT-depiler 是在原 PT-Plugin-Plus 基础上， 基于浏览器最新的 Manifest v3 标准开发的一款浏览器插件（Web Extensions）， 一个可以提升 PT 站点使用效率的工具。
@@ -544,13 +524,33 @@
 
 *   [xiajingren/xhznl-todo-list](https://github.com/xiajingren/xhznl-todo-list) - :sparkles: 一个使用electron + vue + electron-builder开发的跨平台todolist（便签）桌面应用
 
+## HTML
+
+*   [Suxiaoqinx/Netease\_url](https://github.com/Suxiaoqinx/Netease_url) - 网易云无损解析
+
+*   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+
+*   [homeisfar/LinuxDir2HTML](https://github.com/homeisfar/LinuxDir2HTML) -
+
+*   [Aemulo/Release](https://github.com/Aemulo/Release) -
+
+*   [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
+
+*   [tgnav/tgnav.github.io](https://github.com/tgnav/tgnav.github.io) - TGNAV - Telegram频道群组导航。收录Telegram上的优质频道、群组、机器人，打造一个高质量Telegram导航。
+
+*   [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
+
+*   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
+
+*   [kenzok8/openwrt-packages](https://github.com/kenzok8/openwrt-packages) - openwrt常用软件包
+
 ## miscellaneous
 
 *   [curtinp118/Dylibs-for-TrollFools](https://github.com/curtinp118/Dylibs-for-TrollFools) -  iOS 巨魔应用 TrollFools 自用破解或去广告插件的资源库🚀
 
 *   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
-*   [dongyubin/DockerHub](https://github.com/dongyubin/DockerHub) - 2025年7月更新，目前国内可用Docker镜像源汇总，DockerHub国内镜像加速列表，🚀DockerHub镜像加速器
+*   [dongyubin/DockerHub](https://github.com/dongyubin/DockerHub) - 2025年8月更新，目前国内可用Docker镜像源汇总，DockerHub国内镜像加速列表，🚀DockerHub镜像加速器
 
 *   [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.  🪄 ⭐
 
@@ -706,7 +706,7 @@
 
 *   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
-*   [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
+*   [chroma-core/chroma](https://github.com/chroma-core/chroma) - Open-source search and retrieval database for AI applications.
 
 *   [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
 
