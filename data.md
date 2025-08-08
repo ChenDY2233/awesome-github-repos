@@ -11,6 +11,7 @@
 *   [C#](#c)
 *   [Go](#go)
 *   [GLSL](#glsl)
+*   [CSS](#css)
 *   [JavaScript](#javascript)
 *   [HTML](#html)
 *   [C++](#c-1)
@@ -30,7 +31,6 @@
 *   [Lua](#lua)
 *   [Batchfile](#batchfile)
 *   [Jupyter Notebook](#jupyter-notebook)
-*   [CSS](#css)
 *   [PowerShell](#powershell)
 *   [Pascal](#pascal)
 *   [Haskell](#haskell)
@@ -38,13 +38,13 @@
 
 ## Python
 
+*   [jg-rp/python-jsonpath](https://github.com/jg-rp/python-jsonpath) - A flexible JSONPath engine for Python with JSON Pointer and JSON Patch
+
 *   [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 
 *   [dingyufei615/ai-goofish-monitor](https://github.com/dingyufei615/ai-goofish-monitor) - 基于 Playwright 和AI过滤的闲鱼多任务实时/定时监控与智能分析工具，配备了功能完善的后台管理界面。帮助用户节省闲鱼商品过滤，能及时找到心仪商品。
 
 *   [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
-
-*   [dockpeek/dockpeek](https://github.com/dockpeek/dockpeek) - Simple dashboard showing Docker ports with clickable links for multiple hosts
 
 *   [hanxi/xiaomusic](https://github.com/hanxi/xiaomusic) - 使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。
 
@@ -564,6 +564,14 @@
 
 *   [hooke007/MPV\_lazy](https://github.com/hooke007/MPV_lazy) - 🔄 mpv player 播放器折腾记录 windows conf ； 中文注释配置 汉化文档 快速帮助入门 ； mpv-lazy 懒人包 win10 x64 config ； 着色器 shader 滤镜 filter 整合方案
 
+## CSS
+
+*   [dockpeek/dockpeek](https://github.com/dockpeek/dockpeek) - Simple dashboard showing Docker ports with clickable links for multiple hosts
+
+*   [WebStackPage/WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io) - ❤️静态响应式网址导航网站 - webstack.cc
+
+*   [xinac721/WebStack-xinac](https://github.com/xinac721/WebStack-xinac) - 基于WebStack和Typecho的网址导航主题，https://ixh.net
+
 ## JavaScript
 
 *   [star7th/showdoc](https://github.com/star7th/showdoc) - ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具
@@ -631,8 +639,6 @@
 *   [hobbyfang/javOldDriver](https://github.com/hobbyfang/javOldDriver) - jav老司机
 
 *   [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application
-
-*   [RimoChan/match-you](https://github.com/RimoChan/match-you) - 【您配吗】配你吗
 
 ## HTML
 
@@ -877,12 +883,6 @@
 *   [ipython/ipyparallel](https://github.com/ipython/ipyparallel) - IPython Parallel: Interactive Parallel Computing in Python
 
 *   [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
-
-## CSS
-
-*   [WebStackPage/WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io) - ❤️静态响应式网址导航网站 - webstack.cc
-
-*   [xinac721/WebStack-xinac](https://github.com/xinac721/WebStack-xinac) - 基于WebStack和Typecho的网址导航主题，https://ixh.net
 
 ## PowerShell
 
