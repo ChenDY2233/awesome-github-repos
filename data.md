@@ -280,7 +280,7 @@
 
 ## TypeScript
 
-*   [mendableai/firecrawl-observer](https://github.com/mendableai/firecrawl-observer) - 🔥 Monitor websites for changes with Firecrawl's powerful change detection -   see what and when websites have changed
+*   [firecrawl/firecrawl-observer](https://github.com/firecrawl/firecrawl-observer) - 🔥 Monitor websites for changes with Firecrawl's powerful change detection -   see what and when websites have changed
 
 *   [berstend/chrome-versions](https://github.com/berstend/chrome-versions) - Google Chrome release and version info as JSON (self updating)
 
