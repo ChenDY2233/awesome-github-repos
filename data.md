@@ -416,8 +416,6 @@
 
 *   [0voice/kernel\_memory\_management](https://github.com/0voice/kernel_memory_management) - 总结整理linux内核的内存管理的资料，包含论文，文章，视频，以及应用程序的内存泄露，内存池相关
 
-*   [tutugreen/Huorong-Rules](https://github.com/tutugreen/Huorong-Rules) -
-
 ## Vue
 
 *   [seekrays/seekcode](https://github.com/seekrays/seekcode) - A clean and efficient code snippet and clipboard management tool designed for developers
@@ -745,6 +743,8 @@
 *   [OpenVPN/openvpn](https://github.com/OpenVPN/openvpn) - OpenVPN  is  an open source VPN daemon
 
 *   [zhangyiming748/amr2mp3](https://github.com/zhangyiming748/amr2mp3) - 微信语音转换
+
+*   [sabrogden/Ditto](https://github.com/sabrogden/Ditto) - Ditto is an extension to the Windows Clipboard. You copy something to the Clipboard and Ditto takes what you copied and stores it in a database to retrieve at a later time.
 
 *   [pepe2k/u-boot\_mod](https://github.com/pepe2k/u-boot_mod) - U-Boot 1.1.4 modification for routers
 
