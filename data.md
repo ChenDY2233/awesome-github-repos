@@ -118,7 +118,7 @@
 
 *   [wanglin2/mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的Web思维导图。A powerful web mind map.
 
-*   [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for developers
+*   [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for power users
 
 *   [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
 
