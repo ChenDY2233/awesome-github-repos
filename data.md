@@ -226,8 +226,6 @@
 
 *   [kennethreitz/records](https://github.com/kennethreitz/records) - SQL for Humans™
 
-*   [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) - NAS媒体库管理工具
-
 *   [ndleah/python-mini-project](https://github.com/ndleah/python-mini-project) - 🙌 Welcome open-source Python mini-project contributions!
 
 *   [OpenStitching/stitching](https://github.com/OpenStitching/stitching) - A Python package for fast and robust Image Stitching
@@ -719,6 +717,8 @@
 *   [mrvivacious/PorNo-\_Porn\_Blocker](https://github.com/mrvivacious/PorNo-_Porn_Blocker) - Porn blocker that redirects users from porn to positive, fulfilling websites
 
 *   [jsorrell/CarpetSkyAdditions](https://github.com/jsorrell/CarpetSkyAdditions) - Empty world generation with new ways to obtain resources
+
+*   [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
 
 ## CoffeeScript
 
