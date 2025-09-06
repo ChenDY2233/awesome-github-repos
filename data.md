@@ -635,11 +635,11 @@
 
 ## GLSL
 
-*   [hooke007/MPV\_lazy](https://github.com/hooke007/MPV_lazy) - 🔄 mpv player 播放器折腾记录 windows conf ； 中文注释配置 汉化文档 快速帮助入门 ； mpv-lazy 懒人包 win10 x64 config ； 着色器 shader 滤镜 filter 整合方案
+*   [hooke007/mpv\_PlayKit](https://github.com/hooke007/mpv_PlayKit) - 🔄 mpv player 播放器折腾记录 windows conf ； 中文注释配置 汉化文档 快速帮助入门 ； mpv-lazy 懒人包 win10 x64 config ； 着色器 shader 滤镜 filter 整合方案
 
 ## CSS
 
-*   [dockpeek/dockpeek](https://github.com/dockpeek/dockpeek) - Simple dashboard showing Docker ports with clickable links for multiple hosts
+*   [dockpeek/dockpeek](https://github.com/dockpeek/dockpeek) - Simple dashboard for quick access to Docker container web interfaces across multiple hosts
 
 *   [WebStackPage/WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io) - ❤️静态响应式网址导航网站 - webstack.cc
 
