@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [HTML](#html)
 *   [Python](#python)
 *   [Go](#go)
 *   [JavaScript](#javascript)
@@ -15,7 +16,6 @@
 *   [CSS](#css)
 *   [C++](#c-1)
 *   [Less](#less)
-*   [HTML](#html)
 *   [Java](#java)
 *   [CoffeeScript](#coffeescript)
 *   [C](#c-2)
@@ -34,6 +34,24 @@
 *   [PowerShell](#powershell)
 *   [Pascal](#pascal)
 *   [Haskell](#haskell)
+
+## HTML
+
+*   [naihe138/previewHub](https://github.com/naihe138/previewHub) - 是一个Chrome浏览器插件，让您在GitHub页面上直接预览README.md中的图片，无需跳转到单独的图片页面。同时可以支持打开web ide
+
+*   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+
+*   [homeisfar/LinuxDir2HTML](https://github.com/homeisfar/LinuxDir2HTML) -
+
+*   [Aemulo/Release](https://github.com/Aemulo/Release) -
+
+*   [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
+
+*   [tgnav/tgnav.github.io](https://github.com/tgnav/tgnav.github.io) - TGNAV - Telegram频道群组导航。收录Telegram上的优质频道、群组、机器人，打造一个高质量Telegram导航。
+
+*   [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
+
+*   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
 
 ## Python
 
@@ -208,8 +226,6 @@
 *   [Yuukiy/JavSP](https://github.com/Yuukiy/JavSP) - 汇总多站点数据的AV元数据刮削器
 
 *   [novnc/websockify](https://github.com/novnc/websockify) - Websockify is a WebSocket to TCP proxy/bridge. This allows a browser to connect  to any application/server/service.
-
-*   [arcturus-script/bilibili](https://github.com/arcturus-script/bilibili) - 云函数实现 BiliBili 每日观看视频、自动投币、分享、漫画签到、直播签到
 
 ## Go
 
@@ -679,27 +695,11 @@
 
 *   [anhkgg/SuperRDP](https://github.com/anhkgg/SuperRDP) - Super RDPWrap
 
-*   [inotify-tools/inotify-tools](https://github.com/inotify-tools/inotify-tools) -   inotify-tools is a C library and a set of command-line programs providing a simple interface to inotify.
+*   [inotify-tools/inotify-tools](https://github.com/inotify-tools/inotify-tools) -   inotify-tools is a library and a set of command-line programs providing a simple interface to inotify.
 
 ## Less
 
 *   [opentiny/tiny-vue](https://github.com/opentiny/tiny-vue) - TinyVue is an enterprise-class UI component library of OpenTiny community, support both Vue.js 2 and Vue.js 3, as well as PC and mobile.
-
-## HTML
-
-*   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-
-*   [homeisfar/LinuxDir2HTML](https://github.com/homeisfar/LinuxDir2HTML) -
-
-*   [Aemulo/Release](https://github.com/Aemulo/Release) -
-
-*   [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
-
-*   [tgnav/tgnav.github.io](https://github.com/tgnav/tgnav.github.io) - TGNAV - Telegram频道群组导航。收录Telegram上的优质频道、群组、机器人，打造一个高质量Telegram导航。
-
-*   [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
-
-*   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
 
 ## Java
 
