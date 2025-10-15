@@ -489,7 +489,7 @@
 
 *   [charmingYouYou/smzdm\_sign\_ql](https://github.com/charmingYouYou/smzdm_sign_ql) - 什么值得买自动签到、评论-青龙版
 
-*   [jic999/moon-web-start](https://github.com/jic999/moon-web-start) - A simple style web navigation page | 一个简约风格的网址导航页
+*   [auwen/moon-web-start](https://github.com/auwen/moon-web-start) - A simple style web navigation page | 一个简约风格的网址导航页
 
 *   [Authenticator-Extension/Authenticator](https://github.com/Authenticator-Extension/Authenticator) - Authenticator generates 2-Step Verification codes in your browser.
 
@@ -617,7 +617,7 @@
 
 *   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
-*   [dongyubin/DockerHub](https://github.com/dongyubin/DockerHub) - 2025年9月更新，目前国内可用Docker镜像源汇总，DockerHub国内镜像加速列表，🚀DockerHub镜像加速器
+*   [dongyubin/DockerHub](https://github.com/dongyubin/DockerHub) - 2025年10月更新，目前国内可用Docker镜像源汇总，DockerHub国内镜像加速列表，🚀DockerHub镜像加速器
 
 *   [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.  🪄 ⭐
 
@@ -731,7 +731,7 @@
 
 *   [istoreos/istoreos](https://github.com/istoreos/istoreos) - 提供一个人人会用的的路由、NAS系统 （目前活跃的分支是 istoreos-24.10）
 
-*   [ravachol/kew](https://github.com/ravachol/kew) - A terminal music player.
+*   [ravachol/kew](https://github.com/ravachol/kew) - A marvelous terminal music player.
 
 *   [OpenVPN/openvpn](https://github.com/OpenVPN/openvpn) - OpenVPN  is  an open source VPN daemon
 
