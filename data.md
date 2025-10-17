@@ -731,7 +731,7 @@
 
 *   [istoreos/istoreos](https://github.com/istoreos/istoreos) - 提供一个人人会用的的路由、NAS系统 （目前活跃的分支是 istoreos-24.10）
 
-*   [ravachol/kew](https://github.com/ravachol/kew) - A marvelous terminal music player.
+*   [ravachol/kew](https://github.com/ravachol/kew) - Music for the Shell.
 
 *   [OpenVPN/openvpn](https://github.com/OpenVPN/openvpn) - OpenVPN  is  an open source VPN daemon
 
