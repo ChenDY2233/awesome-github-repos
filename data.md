@@ -31,7 +31,6 @@
 *   [Batchfile](#batchfile)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [CSS](#css)
-*   [PowerShell](#powershell)
 *   [Pascal](#pascal)
 *   [Haskell](#haskell)
 
@@ -871,6 +870,8 @@
 
 *   [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 
+*   [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
+
 ## Jupyter Notebook
 
 *   [ipython/ipyparallel](https://github.com/ipython/ipyparallel) - IPython Parallel: Interactive Parallel Computing in Python
@@ -884,10 +885,6 @@
 *   [kenzok8/openwrt-packages](https://github.com/kenzok8/openwrt-packages) - openwrt常用软件包
 
 *   [xinac721/WebStack-xinac](https://github.com/xinac721/WebStack-xinac) - 基于WebStack和Typecho的网址导航主题，https://ixh.net
-
-## PowerShell
-
-*   [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 
 ## Pascal
 
