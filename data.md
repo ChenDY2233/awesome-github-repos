@@ -35,7 +35,7 @@
 
 ## TypeScript
 
-*   [flyhunterl/flymd](https://github.com/flyhunterl/flymd) - 支持所见所得 WebDav同步 图片自动上传 AI辅助写作  插件扩展 响应迅速 占用极低的 Markdown 编辑 PDF 阅读工具。A highly responsive and extremely low-resource Markdown editor and PDF reader tool that supports WYSIWYG, WebDAV synchronization, automatic image uploads, AI-assisted writing, and plugin extensibility."
+*   [flyhunterl/flymd](https://github.com/flyhunterl/flymd) - 所见所得 WebDav同步 图片自动上传 AI辅助写作  插件扩展  待办事项微信/短信提醒 响应迅速 占用极低的 Markdown 编辑 PDF 阅读工具。A highly responsive and extremely low-resource Markdown editor and PDF reader tool that supports WYSIWYG, WebDAV synchronization, automatic image uploads, AI-assisted writing, and plugin extensibility."
 
 *   [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 
