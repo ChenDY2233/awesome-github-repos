@@ -28,8 +28,8 @@
 *   [Objective-C++](#objective-c)
 *   [Objective-C](#objective-c-1)
 *   [Lua](#lua)
-*   [Batchfile](#batchfile)
 *   [Jupyter Notebook](#jupyter-notebook)
+*   [Batchfile](#batchfile)
 *   [CSS](#css)
 *   [Pascal](#pascal)
 
@@ -65,7 +65,7 @@
 
 ## TypeScript
 
-*   [flyhunterl/flymd](https://github.com/flyhunterl/flymd) - 所见所得 WebDav同步 图片自动上传 AI辅助写作  插件扩展  待办事项微信/短信提醒 响应迅速 占用极低的 Markdown 编辑 PDF 阅读工具。A highly responsive and extremely low-resource Markdown editor and PDF reader tool that supports WYSIWYG, WebDAV synchronization, automatic image uploads, AI-assisted writing, and plugin extensibility."
+*   [flyhunterl/flymd](https://github.com/flyhunterl/flymd) - 告别臃肿、告别卡顿、 告别割裂体验！所见所得 + 源码编辑双模式支持！仅7MB的高性能Markdown编辑器 ！集成AI助手和智能待办提醒推送系统！Say goodbye to bloat, lag, and fragmented experience! WYSIWYG + Source Code Editing Dual-Mode Support! Only 7MB High-Performance Markdown Editor! Integrated AI Assistant and Smart To-Do Reminder System!
 
 *   [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 
@@ -364,6 +364,8 @@
 *   [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 
 *   [nschloe/tiptop](https://github.com/nschloe/tiptop) - :desktop\_computer: Command-line system monitoring
+
+*   [hxz393/BaiduPanFilesTransfers](https://github.com/hxz393/BaiduPanFilesTransfers) - 百度网盘批量转存、分享和检测工具
 
 ## C\#
 
@@ -865,19 +867,17 @@
 
 *   [xiaorouji/openwrt-passwall](https://github.com/xiaorouji/openwrt-passwall) -
 
-## Batchfile
-
-*   [lstprjct/IDM-Activation-Script](https://github.com/lstprjct/IDM-Activation-Script) - IDM Activation & Trail Reset Script
-
-*   [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
-
-*   [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
-
 ## Jupyter Notebook
 
 *   [ipython/ipyparallel](https://github.com/ipython/ipyparallel) - IPython Parallel: Interactive Parallel Computing in Python
 
 *   [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
+
+## Batchfile
+
+*   [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
+
+*   [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 
 ## CSS
 
