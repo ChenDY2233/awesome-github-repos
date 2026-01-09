@@ -27,6 +27,7 @@
 *   [Dockerfile](#dockerfile)
 *   [Objective-C++](#objective-c)
 *   [Objective-C](#objective-c-1)
+*   [YARA](#yara)
 *   [Lua](#lua)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Batchfile](#batchfile)
@@ -177,8 +178,6 @@
 *   [wanglin2/mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的Web思维导图。A powerful web mind map.
 
 *   [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for power users
-
-*   [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
 
 *   [miroslavpejic85/mirotalksfu](https://github.com/miroslavpejic85/mirotalksfu) - 🏆 WebRTC - SFU - Simple, Secure, Scalable Real-Time Video Conferences Up to 8k, compatible with all browsers and platforms.
 
@@ -1049,6 +1048,10 @@
 ## Objective-C
 
 *   [opa334/TrollStore](https://github.com/opa334/TrollStore) - Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
+
+## YARA
+
+*   [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
 
 ## Lua
 
