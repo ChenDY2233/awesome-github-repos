@@ -39,6 +39,8 @@
 
 ## Python
 
+*   [finvfamily/finshare](https://github.com/finvfamily/finshare) -  专业的金融数据获取工具库 - A Professional Financial Data Fetching Toolkit for   Python
+
 *   [yisizhu520/userecho](https://github.com/yisizhu520/userecho) -
 
 *   [kevinspider/real-time-fund-tui](https://github.com/kevinspider/real-time-fund-tui) - 基金实时估值和行业涨跌
@@ -254,8 +256,6 @@
 *   [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing\_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
 
 *   [shidenggui/easyquotation](https://github.com/shidenggui/easyquotation) - 实时获取免费股票行情，支持新浪 / 腾讯(港股) / 集思录
-
-*   [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
 
 ## Go
 
