@@ -207,7 +207,7 @@
 
 *   [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 
-*   [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
+*   [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources.
 
 *   [jg-rp/python-jsonpath](https://github.com/jg-rp/python-jsonpath) - A flexible JSONPath engine for Python with JSON Pointer and JSON Patch
 
