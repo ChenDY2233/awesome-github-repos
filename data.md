@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [Zig](#zig)
 *   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
 *   [Java](#java)
@@ -35,6 +36,10 @@
 *   [Pascal](#pascal)
 *   [Haskell](#haskell)
 *   [Markdown](#markdown)
+
+## Zig
+
+*   [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 
 ## miscellaneous
 
@@ -615,8 +620,6 @@
 *   [nickoala/telepot](https://github.com/nickoala/telepot) - Python framework for Telegram Bot API
 
 *   [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing\_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
-
-*   [shidenggui/easyquotation](https://github.com/shidenggui/easyquotation) - 实时获取免费股票行情，支持新浪 / 腾讯(港股) / 集思录
 
 ## Go
 
