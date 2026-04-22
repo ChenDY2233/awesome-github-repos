@@ -3,24 +3,23 @@
 ## Table of Contents
 
 *   [Python](#python)
-*   [Zig](#zig)
+*   [C](#c)
 *   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
 *   [Java](#java)
 *   [JavaScript](#javascript)
 *   [Rust](#rust)
 *   [Go](#go)
-*   [C#](#c)
+*   [C#](#c-1)
 *   [Shell](#shell)
 *   [Vue](#vue)
 *   [HTML](#html)
 *   [Visual Basic .NET](#visual-basic-net)
 *   [GLSL](#glsl)
 *   [PHP](#php)
-*   [C++](#c-1)
+*   [C++](#c-2)
 *   [Less](#less)
 *   [CoffeeScript](#coffeescript)
-*   [C](#c-2)
 *   [Swift](#swift)
 *   [Dart](#dart)
 *   [Kotlin](#kotlin)
@@ -251,9 +250,49 @@
 
 *   [nickoala/telepot](https://github.com/nickoala/telepot) - Python framework for Telegram Bot API
 
-## Zig
+## C
 
 *   [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
+
+*   [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具与框架. Change Source everywhere for every software
+
+*   [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's development repository
+
+*   [lizongying/my-tv](https://github.com/lizongying/my-tv) - 我的电视 电视直播软件，安装即可使用
+
+*   [lmarzen/esp32-weather-epd](https://github.com/lmarzen/esp32-weather-epd) - A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API.
+
+*   [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please use MRs on https://code.videolan.org/videolan/vlc
+
+*   [istoreos/istoreos](https://github.com/istoreos/istoreos) - 提供一个人人会用的的路由、NAS系统 （目前活跃的分支是 istoreos-24.10，main或master分支不维护请勿使用）
+
+*   [ravachol/kew](https://github.com/ravachol/kew) - Music for the Shell.
+
+*   [OpenVPN/openvpn](https://github.com/OpenVPN/openvpn) - OpenVPN  is  an open source VPN daemon
+
+*   [zhangyiming748/amr2mp3](https://github.com/zhangyiming748/amr2mp3) - 微信语音转换
+
+*   [sabrogden/Ditto](https://github.com/sabrogden/Ditto) - Ditto is an extension to the Windows Clipboard. You copy something to the Clipboard and Ditto takes what you copied and stores it in a database to retrieve at a later time.
+
+*   [pepe2k/u-boot\_mod](https://github.com/pepe2k/u-boot_mod) - U-Boot 1.1.4 modification for routers
+
+*   [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
+
+*   [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
+
+*   [oracle/python-cx\_Oracle](https://github.com/oracle/python-cx_Oracle) - Obsolete Python interface to Oracle Database, now superseded by python-oracledb
+
+*   [apache/httpd](https://github.com/apache/httpd) - Mirror of Apache HTTP Server. Issues: http://issues.apache.org
+
+*   [vergoh/vnstat](https://github.com/vergoh/vnstat) - vnStat - a network traffic monitor for Linux and BSD
+
+*   [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
+
+*   [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
+
+*   [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic
+
+*   [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 
 ## miscellaneous
 
@@ -962,48 +1001,6 @@
 ## CoffeeScript
 
 *   [zero-peak/ZeroOmega](https://github.com/zero-peak/ZeroOmega) - Manage and switch between multiple proxies quickly & easily.
-
-## C
-
-*   [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具与框架. Change Source everywhere for every software
-
-*   [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's development repository
-
-*   [lizongying/my-tv](https://github.com/lizongying/my-tv) - 我的电视 电视直播软件，安装即可使用
-
-*   [lmarzen/esp32-weather-epd](https://github.com/lmarzen/esp32-weather-epd) - A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API.
-
-*   [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please use MRs on https://code.videolan.org/videolan/vlc
-
-*   [istoreos/istoreos](https://github.com/istoreos/istoreos) - 提供一个人人会用的的路由、NAS系统 （目前活跃的分支是 istoreos-24.10，main或master分支不维护请勿使用）
-
-*   [ravachol/kew](https://github.com/ravachol/kew) - Music for the Shell.
-
-*   [OpenVPN/openvpn](https://github.com/OpenVPN/openvpn) - OpenVPN  is  an open source VPN daemon
-
-*   [zhangyiming748/amr2mp3](https://github.com/zhangyiming748/amr2mp3) - 微信语音转换
-
-*   [sabrogden/Ditto](https://github.com/sabrogden/Ditto) - Ditto is an extension to the Windows Clipboard. You copy something to the Clipboard and Ditto takes what you copied and stores it in a database to retrieve at a later time.
-
-*   [pepe2k/u-boot\_mod](https://github.com/pepe2k/u-boot_mod) - U-Boot 1.1.4 modification for routers
-
-*   [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
-
-*   [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
-
-*   [oracle/python-cx\_Oracle](https://github.com/oracle/python-cx_Oracle) - Obsolete Python interface to Oracle Database, now superseded by python-oracledb
-
-*   [apache/httpd](https://github.com/apache/httpd) - Mirror of Apache HTTP Server. Issues: http://issues.apache.org
-
-*   [vergoh/vnstat](https://github.com/vergoh/vnstat) - vnStat - a network traffic monitor for Linux and BSD
-
-*   [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
-
-*   [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
-
-*   [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic
-
-*   [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 
 ## Swift
 
