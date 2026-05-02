@@ -609,7 +609,7 @@
 
 *   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
-*   [chroma-core/chroma](https://github.com/chroma-core/chroma) - Data infrastructure for AI
+*   [chroma-core/chroma](https://github.com/chroma-core/chroma) - Search infrastructure for AI
 
 *   [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 
