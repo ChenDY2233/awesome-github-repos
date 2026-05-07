@@ -2,9 +2,10 @@
 
 ## Table of Contents
 
+*   [Dart](#dart)
+*   [miscellaneous](#miscellaneous)
 *   [Python](#python)
 *   [Zig](#zig)
-*   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
 *   [Java](#java)
 *   [JavaScript](#javascript)
@@ -22,7 +23,6 @@
 *   [CoffeeScript](#coffeescript)
 *   [C](#c-2)
 *   [Swift](#swift)
-*   [Dart](#dart)
 *   [Kotlin](#kotlin)
 *   [D](#d)
 *   [Dockerfile](#dockerfile)
@@ -36,6 +36,92 @@
 *   [Pascal](#pascal)
 *   [Haskell](#haskell)
 *   [Markdown](#markdown)
+
+## Dart
+
+*   [likaia/mise\_gui](https://github.com/likaia/mise_gui) - 一个面向开发者的 mise 可视化管理软件，通过图形化界面快速管理本地工具链版本以及项目内所依赖工具版本。
+
+*   [canxin121/app\_rhyme](https://github.com/canxin121/app_rhyme) - 使用Flutter和Rust构建的开源免费音乐软件
+
+*   [guozhigq/pilipala](https://github.com/guozhigq/pilipala) - PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。
+
+*   [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
+
+*   [xiaoyaocz/dart\_simple\_live](https://github.com/xiaoyaocz/dart_simple_live) - 简简单单的看直播
+
+*   [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
+
+## miscellaneous
+
+*   [peter123023/awesome-claude-api](https://github.com/peter123023/awesome-claude-api) - 收集和整理的可靠Claude中转API资源列表，帮助开发者快速找到稳定、高性价比的Claude API服务
+
+*   [yzfly/Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH) - MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients
+
+*   [limbopro/Paolujichang](https://github.com/limbopro/Paolujichang) - 科学上网🕸️之跑路机场名单收集（2020-2026），欢迎投稿。Ad🔗🈲🙅❌
+
+*   [qiye45/wechatVideoDownload](https://github.com/qiye45/wechatVideoDownload) - 微信视频号下载工具，支持视频号视频、直播回放、直播、图片下载
+
+*   [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup
+
+*   [TWO-ICE/Awesome-NAS-Docker](https://github.com/TWO-ICE/Awesome-NAS-Docker) - 一个专注于 NAS 和 Docker 部署的开源项目合集，覆盖 AI、开发、数据管理、多媒体、运维等场景，提供一键式部署指南和实用教程，让 NAS 变身全能生产力工具！
+
+*   [curtinp118/Dylibs-for-TrollFools](https://github.com/curtinp118/Dylibs-for-TrollFools) -  iOS 巨魔应用 TrollFools 自用破解或去广告插件的资源库🚀
+
+*   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+
+*   [git-jiadong/wechatDataBackup](https://github.com/git-jiadong/wechatDataBackup) -
+
+*   [dongyubin/DockerHub](https://github.com/dongyubin/DockerHub) - 2026年5月更新，目前国内可用Docker镜像源汇总，DockerHub国内镜像加速列表，🚀DockerHub镜像加速器
+
+*   [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.  🪄 ⭐
+
+*   [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
+
+*   [xiaohucode/yidaRule](https://github.com/xiaohucode/yidaRule) - 益达规则仓库
+
+*   [InfpHub/Raptor](https://github.com/InfpHub/Raptor) - 云盘桌面应用客户端
+
+*   [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
+
+*   [AUK9527/Are-u-ok](https://github.com/AUK9527/Are-u-ok) -
+
+*   [lanceliao/china-holiday-calender](https://github.com/lanceliao/china-holiday-calender) - 2023-2025中国节假日、调休、补班日历，ICS格式，可供IPhone、Google Calendar、Outlook等客户端订阅，包含节假日API
+
+*   [leiurayer/downkyi](https://github.com/leiurayer/downkyi) - 哔哩下载姬downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。
+
+*   [RipplePiam/MobaXterm-Chinese-Simplified](https://github.com/RipplePiam/MobaXterm-Chinese-Simplified) - MobaXterm 简体中文汉化版🌏🖥🖥🖥 【💌慢工精心制作，"提示"也汉化💻】 【😍控件布局精细调整】
+
+*   [xaoyaoo/PyWxDump](https://github.com/xaoyaoo/PyWxDump) - 删库
+
+*   [HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) - Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation
+
+*   [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) -
+
+*   [ddgksf2013/ddgksf2013](https://github.com/ddgksf2013/ddgksf2013) - 墨鱼去广告计划 | QuantumultX 去广告 | 去开屏广告 | 应用净化 | 会员解锁 | 墨鱼配置 | 应用增强 | 网页优化 | 网盘资源 | 模块去广告 | 圈 X 配置 | Shadowrocket配置 | 墨鱼规则 | Clash配置 | 小火箭去广告 | 资源库 | AdBlock | 网页广告 | 不完全指北
+
+*   [nwuzmedoutlook/university](https://github.com/nwuzmedoutlook/university) - :octocat:120+国内高校课程资源纯手工整理，欢迎补充、修订
+
+*   [Wechat-ggGitHub/Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) - 收集整理 GitHub 上高质量、有趣的开源项目。
+
+*   [Johnshall/Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever) - 提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。
+
+*   [moshowgame/dbeaver-driver-all](https://github.com/moshowgame/dbeaver-driver-all) - dbeaver所有jdbc驱动都在这，dbeaver all jdbc drivers ,come and download with me , one package come with all jdbc drivers.
+
+*   [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) - 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵
+
+*   [0voice/kernel\_memory\_management](https://github.com/0voice/kernel_memory_management) - 总结整理linux内核的内存管理的资料，包含论文，文章，视频，以及应用程序的内存泄露，内存池相关
+
+*   [tutugreen/Huorong-Rules](https://github.com/tutugreen/Huorong-Rules) -
+
+*   [NSRingo/iRingo](https://github.com/NSRingo/iRingo) - 解锁完整的 Apple功能和集成服务
+
+*   [cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist) - 我终于能用谷歌搜中文了……
+
+*   [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) - 2026最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【dianbaodaohang.com】
+
+*   [WindowTop/WindowTop-App](https://github.com/WindowTop/WindowTop-App) - Set window on top, make it dark, transparent and more
+
+*   [miaomiaosoft/PandaOCR](https://github.com/miaomiaosoft/PandaOCR) - PandaOCR - 多功能OCR图文识别+翻译+朗读+弹窗+公式+表格+图床+搜图+二维码
 
 ## Python
 
@@ -249,81 +335,9 @@
 
 *   [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 
-*   [nickoala/telepot](https://github.com/nickoala/telepot) - Python framework for Telegram Bot API
-
 ## Zig
 
 *   [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
-
-## miscellaneous
-
-*   [yzfly/Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH) - MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients
-
-*   [limbopro/Paolujichang](https://github.com/limbopro/Paolujichang) - 科学上网🕸️之跑路机场名单收集（2020-2026），欢迎投稿。Ad🔗🈲🙅❌
-
-*   [qiye45/wechatVideoDownload](https://github.com/qiye45/wechatVideoDownload) - 微信视频号下载工具，支持视频号视频、直播回放、直播、图片下载
-
-*   [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup
-
-*   [TWO-ICE/Awesome-NAS-Docker](https://github.com/TWO-ICE/Awesome-NAS-Docker) - 一个专注于 NAS 和 Docker 部署的开源项目合集，覆盖 AI、开发、数据管理、多媒体、运维等场景，提供一键式部署指南和实用教程，让 NAS 变身全能生产力工具！
-
-*   [curtinp118/Dylibs-for-TrollFools](https://github.com/curtinp118/Dylibs-for-TrollFools) -  iOS 巨魔应用 TrollFools 自用破解或去广告插件的资源库🚀
-
-*   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-
-*   [git-jiadong/wechatDataBackup](https://github.com/git-jiadong/wechatDataBackup) -
-
-*   [dongyubin/DockerHub](https://github.com/dongyubin/DockerHub) - 2026年4月更新，目前国内可用Docker镜像源汇总，DockerHub国内镜像加速列表，🚀DockerHub镜像加速器
-
-*   [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.  🪄 ⭐
-
-*   [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
-
-*   [xiaohucode/yidaRule](https://github.com/xiaohucode/yidaRule) - 益达规则仓库
-
-*   [InfpHub/Raptor](https://github.com/InfpHub/Raptor) - 云盘桌面应用客户端
-
-*   [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
-
-*   [AUK9527/Are-u-ok](https://github.com/AUK9527/Are-u-ok) -
-
-*   [lanceliao/china-holiday-calender](https://github.com/lanceliao/china-holiday-calender) - 2023-2025中国节假日、调休、补班日历，ICS格式，可供IPhone、Google Calendar、Outlook等客户端订阅，包含节假日API
-
-*   [leiurayer/downkyi](https://github.com/leiurayer/downkyi) - 哔哩下载姬downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。
-
-*   [RipplePiam/MobaXterm-Chinese-Simplified](https://github.com/RipplePiam/MobaXterm-Chinese-Simplified) - MobaXterm 简体中文汉化版🌏🖥🖥🖥 【💌慢工精心制作，"提示"也汉化💻】 【😍控件布局精细调整】
-
-*   [xaoyaoo/PyWxDump](https://github.com/xaoyaoo/PyWxDump) - 删库
-
-*   [HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) - Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation
-
-*   [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) -
-
-*   [ddgksf2013/ddgksf2013](https://github.com/ddgksf2013/ddgksf2013) - 墨鱼去广告计划 | QuantumultX 去广告 | 去开屏广告 | 应用净化 | 会员解锁 | 墨鱼配置 | 应用增强 | 网页优化 | 网盘资源 | 模块去广告 | 圈 X 配置 | Shadowrocket配置 | 墨鱼规则 | Clash配置 | 小火箭去广告 | 资源库 | AdBlock | 网页广告 | 不完全指北
-
-*   [nwuzmedoutlook/university](https://github.com/nwuzmedoutlook/university) - :octocat:120+国内高校课程资源纯手工整理，欢迎补充、修订
-
-*   [Wechat-ggGitHub/Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) - 收集整理 GitHub 上高质量、有趣的开源项目。
-
-*   [Johnshall/Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever) - 提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。
-
-*   [moshowgame/dbeaver-driver-all](https://github.com/moshowgame/dbeaver-driver-all) - dbeaver所有jdbc驱动都在这，dbeaver all jdbc drivers ,come and download with me , one package come with all jdbc drivers.
-
-*   [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) - 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵
-
-*   [0voice/kernel\_memory\_management](https://github.com/0voice/kernel_memory_management) - 总结整理linux内核的内存管理的资料，包含论文，文章，视频，以及应用程序的内存泄露，内存池相关
-
-*   [tutugreen/Huorong-Rules](https://github.com/tutugreen/Huorong-Rules) -
-
-*   [NSRingo/iRingo](https://github.com/NSRingo/iRingo) - 解锁完整的 Apple功能和集成服务
-
-*   [cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist) - 我终于能用谷歌搜中文了……
-
-*   [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) - 2026最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【dianbaodaohang.com】
-
-*   [WindowTop/WindowTop-App](https://github.com/WindowTop/WindowTop-App) - Set window on top, make it dark, transparent and more
-
-*   [miaomiaosoft/PandaOCR](https://github.com/miaomiaosoft/PandaOCR) - PandaOCR - 多功能OCR图文识别+翻译+朗读+弹窗+公式+表格+图床+搜图+二维码
 
 ## TypeScript
 
@@ -466,8 +480,6 @@
 *   [jsorrell/CarpetSkyAdditions](https://github.com/jsorrell/CarpetSkyAdditions) - Empty world generation with new ways to obtain resources
 
 *   [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
-
-*   [zfile-dev/zfile](https://github.com/zfile-dev/zfile) - 在线云盘、网盘、OneDrive、云存储、私有云、对象存储、h5ai、上传、下载
 
 ## JavaScript
 
@@ -1020,18 +1032,6 @@
 *   [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences.
 
 *   [Finb/Bark](https://github.com/Finb/Bark) - Bark is an iOS App which allows you to push custom notifications to your iPhone
-
-## Dart
-
-*   [canxin121/app\_rhyme](https://github.com/canxin121/app_rhyme) - 使用Flutter和Rust构建的开源免费音乐软件
-
-*   [guozhigq/pilipala](https://github.com/guozhigq/pilipala) - PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。
-
-*   [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
-
-*   [xiaoyaocz/dart\_simple\_live](https://github.com/xiaoyaocz/dart_simple_live) - 简简单单的看直播
-
-*   [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
 
 ## Kotlin
 
