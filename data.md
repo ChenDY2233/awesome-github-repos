@@ -341,7 +341,7 @@
 
 ## TypeScript
 
-*   [twwch/next-k8s-admin](https://github.com/twwch/next-k8s-admin) - 多集群 Kubernetes 管理平台，支持 RBAC 权限控制、资源管理、应用发布、实时终端、审计日志等功能。
+*   [LingyiChen-AI/next-k8s-admin](https://github.com/LingyiChen-AI/next-k8s-admin) - 多集群 Kubernetes 管理平台，支持 RBAC 权限控制、资源管理、应用发布、实时终端、审计日志等功能。
 
 *   [Hiram-Wong/zyfun](https://github.com/Hiram-Wong/zyfun) - 跨平台桌面端视频资源播放器,免费高颜值.
 
@@ -480,6 +480,8 @@
 *   [jsorrell/CarpetSkyAdditions](https://github.com/jsorrell/CarpetSkyAdditions) - Empty world generation with new ways to obtain resources
 
 *   [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
+
+*   [zfile-dev/zfile](https://github.com/zfile-dev/zfile) - 在线云盘、网盘、OneDrive、云存储、私有云、对象存储、h5ai、上传、下载
 
 ## JavaScript
 
@@ -954,8 +956,6 @@
 *   [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 
 *   [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience
-
-*   [namazso/OpenHashTab](https://github.com/namazso/OpenHashTab) - 📝 File hashing and checking shell extension
 
 *   [anhkgg/SuperRDP](https://github.com/anhkgg/SuperRDP) - Super RDPWrap
 
