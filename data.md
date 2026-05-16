@@ -163,7 +163,7 @@
 
 ## Python
 
-*   [l429609201/misaka\_danmu\_server](https://github.com/l429609201/misaka_danmu_server) - 一个功能强大的自托管弹幕（Danmaku）聚合与管理服务，兼容 dandanplay API 规范。
+*   [l429609201/misaka\_danmu\_server](https://github.com/l429609201/misaka_danmu_server) - 一个功能强大的自托管弹幕（Danmaku）聚合与管理服务，兼容 弹弹play API 规范。
 
 *   [finvfamily/finshare](https://github.com/finvfamily/finshare) -  专业的金融数据获取工具库 - A Professional Financial Data Fetching Toolkit for   Python
 
