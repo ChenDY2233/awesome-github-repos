@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [Rust](#rust)
 *   [C++](#c)
 *   [Dart](#dart)
 *   [miscellaneous](#miscellaneous)
@@ -10,7 +11,6 @@
 *   [TypeScript](#typescript)
 *   [Java](#java)
 *   [JavaScript](#javascript)
-*   [Rust](#rust)
 *   [Go](#go)
 *   [C#](#c-1)
 *   [Shell](#shell)
@@ -36,6 +36,54 @@
 *   [Pascal](#pascal)
 *   [Haskell](#haskell)
 *   [Markdown](#markdown)
+
+## Rust
+
+*   [Achilng/floral-notepaper](https://github.com/Achilng/floral-notepaper) - 花笺，轻量优雅的跨平台桌面便签工具，支持 Markdown 编辑与预览
+
+*   [oso95/Codirigent](https://github.com/oso95/Codirigent) - A terminal workspace for running multiple AI coding CLIs in parallel
+
+*   [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+
+*   [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+
+*   [shshemi/tabiew](https://github.com/shshemi/tabiew) - A lightweight TUI application to view and query tabular data files, such as CSV, TSV, and parquet.
+
+*   [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
+
+*   [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
+
+*   [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
+
+*   [ofek/pyapp](https://github.com/ofek/pyapp) - Runtime installer for Python applications
+
+*   [Edge-coordinates/mason-gallery](https://github.com/Edge-coordinates/mason-gallery) - Masonry layouts Picture Viewer
+
+*   [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
+
+*   [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync) - 由 Rust & Tokio 驱动的哔哩哔哩同步工具
+
+*   [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
+
+*   [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
+
+*   [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) - RustDesk Server Program
+
+*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+
+*   [chroma-core/chroma](https://github.com/chroma-core/chroma) - Search infrastructure for AI
+
+*   [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
+
+*   [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
+
+*   [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
+
+*   [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
+
+*   [cs01/termpair](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption 🔒
+
+*   [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
 
 ## C++
 
@@ -629,52 +677,6 @@
 
 *   [XIU2/UserScript](https://github.com/XIU2/UserScript) - 🐵 自用的一些乱七八糟 油猴脚本~
 
-## Rust
-
-*   [oso95/Codirigent](https://github.com/oso95/Codirigent) - A terminal workspace for running multiple AI coding CLIs in parallel
-
-*   [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-
-*   [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
-
-*   [shshemi/tabiew](https://github.com/shshemi/tabiew) - A lightweight TUI application to view and query tabular data files, such as CSV, TSV, and parquet.
-
-*   [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
-
-*   [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
-
-*   [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
-
-*   [ofek/pyapp](https://github.com/ofek/pyapp) - Runtime installer for Python applications
-
-*   [Edge-coordinates/mason-gallery](https://github.com/Edge-coordinates/mason-gallery) - Masonry layouts Picture Viewer
-
-*   [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
-
-*   [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync) - 由 Rust & Tokio 驱动的哔哩哔哩同步工具
-
-*   [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
-
-*   [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
-
-*   [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) - RustDesk Server Program
-
-*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-
-*   [chroma-core/chroma](https://github.com/chroma-core/chroma) - Search infrastructure for AI
-
-*   [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
-
-*   [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
-
-*   [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
-
-*   [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
-
-*   [cs01/termpair](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption 🔒
-
-*   [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
-
 ## Go
 
 *   [hezhizheng/go-wxpush](https://github.com/hezhizheng/go-wxpush) - 极简且免费的微信消息推送服务 (基于golang)
@@ -936,8 +938,6 @@
 *   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
 
 *   [rlv-dan/Snap2HTML](https://github.com/rlv-dan/Snap2HTML) - Generates directory listings contained in a single, app-like HTML file
-
-*   [qkqpttgf/OneManager-php](https://github.com/qkqpttgf/OneManager-php) - An index & manager of Onedrive based on serverless. Can be deployed to Vercel/Heroku/SCF/FG/FC/CFC/PHP web hosting/VPS.
 
 ## Visual Basic .NET
 
