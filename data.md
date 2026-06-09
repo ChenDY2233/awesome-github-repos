@@ -63,6 +63,8 @@
 
 *   [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync) - 由 Rust & Tokio 驱动的哔哩哔哩同步工具
 
+*   [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
+
 *   [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
 
 *   [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
@@ -928,8 +930,6 @@
 *   [homeisfar/LinuxDir2HTML](https://github.com/homeisfar/LinuxDir2HTML) -
 
 *   [Aemulo/Release](https://github.com/Aemulo/Release) -
-
-*   [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 
 *   [tgnav/tgnav.github.io](https://github.com/tgnav/tgnav.github.io) - TGNAV - Telegram频道群组导航。收录Telegram上的优质频道、群组、机器人，打造一个高质量Telegram导航。
 
