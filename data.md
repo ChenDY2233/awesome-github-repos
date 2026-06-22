@@ -69,6 +69,8 @@
 
 *   [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 
+*   [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
+
 *   [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) - RustDesk Server Program
 
 *   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
@@ -510,8 +512,6 @@
 *   [Vanessa219/vditor](https://github.com/Vanessa219/vditor) - ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes.
 
 *   [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
-
-*   [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 
 *   [gaozhangmin/boxplayer](https://github.com/gaozhangmin/boxplayer) - 小白羊网盘 - Powered by 阿里云盘。
 
